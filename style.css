@@ -31,6 +31,9 @@ body {
   font-size: 30px;
   font-weight: bold;
 }
+.navbar-item{
+  color: black;
+}
 .navbar-item-active{
   color: #005b96;
 }
